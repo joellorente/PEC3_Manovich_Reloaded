@@ -3,12 +3,28 @@
 
 Para  la realización de la PEC 3 de la asignatura **Cultura Digital** del grado *Técnicas de Interacción Digital y Multimedia* de la UOC voy a realizar este documento en formato MarkDown dentro de mi repositorio de GitHub. Voy a tratar de describir dos ejemplos de hibridación tal y como lo habría hecho Manovich en su libro "El Software toma el Mando" . Los dos ejemplos que he escogido son **Wrapped** de **Spotify** y el juego **NotPr0n**.
 
+# ¿Qué es eso de la hibridación?
+
+
+Tal y como nos indica Manovich, el desarrollo y la implementación de los medios existentes en el "Medio ordenador" como definía Kay, ha servido para que esos medios no se queden como estaban y su implementación se haya limitado a una mera copia o representación de los antiguos medios, sino que dan un paso más adelante y música, vídeo, fotografía, datos, sonido, sensores, localización geográfica... se entremezclan entre sí en los medios ya existentes y en otros nuevos, dando lugar al fenómeno de la hibridación.
+
+Esta hibridación puede afectar o, más que afectar, reformar, para que no suene de forma que parezca algo perjudicial y malsonante, tanto a la propia representación de los datos como a la interactividad del propio medio. De esta forma, debido a la hibridación existe software que hibrida datos: mezcla localización GPS con fotografía, gráficos vectoriales con vídeo, o que hibrida la interfaz de creación de contenidos: generación de imágenes gracias texto introducido por el usuario... y  aún no conocemos futuras vueltas de tuerca que vendrán en el futuro.
+
+Y son un ejemplo de cada uno de esos tipos los que voy a a tratar en este artículo. 
+
+  
+
+
+
 
 # Wrapped de Spotify
 
-Wrappedno es más que una adaptación a un formato visual de los datos recopilados por Spotify durante un año acerca de las escuchas realizadas.
+Wrapped no es más que una adaptación a un formato visual de los datos recopilados por Spotify durante un año acerca de las escuchas realizadas. Todos sabemos que cada una de nuestras búsquedas y reproducciones, cada canción, cada inclusión en una lista de reproducción que hacemos en Spotify se queda registrado de cara al análisis tanto de la plataforma como de los propios músicos o distribuidores y también de los anunciantes que utilizan dicha plataforma para publicitar sus productos. Y... dado que ese registro de datos ya está hecho... por qué lo dejamos en simples datos? ¿Por qué no crear una animación para que cada músico y cada usuario vean y compartan de forma visual todo lo que ha sucedido durante el año?
 
-Comenzó a difundirse el año XXXX, y tiene una versión para músicos/artistas y otra para oyentes. 
+Millones de personas comparten de forma masiva cada año su Wrapped personal, promocionando con ello Spotify en sus cuentas de redes sociales. Es por este motivo que Wrapped se ha correlacionado históricamente con un aumento en su uso y descargas en las tiendas de Software. Esta campaña de marketing ha sido a la vez elogiada (por brindar efectivamente a Spotify publicidad gratuita) y criticada (por la recopilación de los datos y el uso que Spotify hace de ellos).
+
+
+Comenzó a difundirse el año 2016 con la denominación actual (en 2015 Spotify ya publicó un germen de Wrapped, llamado "Year in Music"), y tiene una versión para músicos/artistas y otra para oyentes. 
 
 ## Wrapped para músicos
 
@@ -28,15 +44,19 @@ Realmente a nivel hibridación se trata de hacer un  contenido audiovisual e int
 # NotPr0n
 
 NotPr0n es un juego online creado y publicado en 2004 por David Münnich, es uno de los primeros **riddles**   (palabra inglesa que significa "adivinanzas" o "acertijos") que se crearon, y se trata de una sucesión lineal de páginas web en las que para acceder al siguiente nivel, es necesario descubrir la solución del anterior. 
+
 ¿Y qué tiene este juego de diferencia con respecto a otros juegos de ingenio y atención existentes anteriormente? Pues que realmente no es un juego programado como tal, que haya que descargarse o comprar, ejecutarlo en nuestra máquina y jugar, sino que es una sucesión de páginas web alojadas en internet como cualquier otra. La resolución de una nos lleva a otra página, y así sucesivamente hasta (actualmente) 140 niveles. 
-Estos acertijos tampoco son puzzles como tal, unos más difíciles que otros, sino que son imágenes, sonidos o textos en los que, a través de la observación hay que encontrar la solución. Tendremos que meternos en los entresijos más profundos del software tal y como lo conocemos, siendo el software en muchos casos tanto el acertijo como la respuesta. Para algunos de estos acertijos tendremos que utilizar Google en el recurso que detectemos, en otros lo que tendremos que hacer es modificar parte de la URL, en otros encontraremos las pistas para su resolución ocultas dentro del código HTML de la página... y como tampoco quiero hacer spoiler del juego, como decía aquélla.... *"hasta aquí puedo leer..."*
+
+¿Y por qué está NotPr0n en un análisis sobre la hibridación? Pues porque estos acertijos tampoco son puzzles como tal, unos más difíciles que otros, sino que son imágenes, sonidos o textos en los que, a través de la observación hay que encontrar la solución, y la interacción con el juego no consiste en un mando con el que movemos un muñeco o seleccionamos un icono que vemos claramente en la pantalla, sino que tendremos que meternos en los entresijos más profundos del software tal y como lo conocemos, siendo el software en muchos casos tanto el acertijo como la respuesta. Para algunos de estos acertijos tendremos que utilizar Google en el recurso que detectemos, en otros lo que tendremos que hacer es modificar parte de la URL, en otros encontraremos las pistas para su resolución ocultas dentro del código HTML de la página... y como tampoco quiero hacer spoiler del juego, como decía aquélla.... *"hasta aquí puedo leer..."*
 
 Lo que sí que es cierto es que, según el propio contador situado al principio del juego, ha tenido más de 20 millones de jugadores, de los cuáles muy pocos han conseguido finalizar los 140 niveles existentes. En octubre de 2020 se registró la persona número 100 en completar el juego (14 años después, ojo). En ese momento, el creador del juego dejó de otorgar a los que lo finalizaran un certificado. Este certificado menciona que el poseedor tiene conocimientos en edición de audio y de imagen, lenguaje HTML, ordenadores, comprensión musical, persistencia y lógica.
 
-Su nombre porviene de la unión de dos palabras en inglés: not (no) y pron o pr0n, que en argot de Internet sería el equivalente a pornography (pornografía) y....
+Su nombre proviene de la unión de dos palabras en inglés: not (no) y pron o pr0n, que en argot de Internet sería el equivalente a pornography (pornografía) y....
 
 A qué estás esperando para jugarlo? No es por picar, pero hace unos años llegué hasta el nivel 100 aproximadamente....
 
 http://www.notpron.com/
+
+
 
 
