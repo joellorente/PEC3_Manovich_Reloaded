@@ -40,7 +40,7 @@ Los fans comparten estas presentaciones en sus redes sociales tanto por difundir
 
 Realmente a nivel hibridación se trata de hacer un  contenido audiovisual e interactivo con datos extraídos de unas bases de datos puras y duras. Las presentaciones, con imágenes, links a artistas, links a listas de reproducción y a los distintos perfiles, hacen que con las visualizaciones de los wrapped se consigan más reproducciones de canciones y más usuarios que van a querer compartir con el mundo sus tendencias.
 
-
+![Wrapped para fans](https://github.com/joellorente/PEC3_Manovich_Reloaded/blob/main/wrapped%20fans.jpg)
 
 # NotPr0n
 
@@ -58,6 +58,6 @@ A qué estás esperando para jugarlo? No es por picar, pero hace unos años lleg
 
 http://www.notpron.com/
 
-
+![NotPr0n nivel 1](https://github.com/joellorente/PEC3_Manovich_Reloaded/blob/main/Notpr0n%20level1.jpg)
 
 
