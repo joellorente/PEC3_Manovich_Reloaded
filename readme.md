@@ -1,16 +1,15 @@
 # Dos casos de hibridación - Spotify Wrapped / NotPr0n
 
-
-Para  la realización de la PEC 3 de la asignatura **Cultura Digital** del grado *Técnicas de Interacción Digital y Multimedia* de la UOC voy a realizar este documento en formato MarkDown dentro de mi repositorio de GitHub. Voy a tratar de describir dos ejemplos de hibridación tal y como lo habría hecho Manovich en su libro "El Software toma el Mando" . Los dos ejemplos que he escogido son **Wrapped** de **Spotify** y el juego **NotPr0n**.
+**Autor:** José Antonio Llorente Gallardo - Diciembre 2022 
 
 # ¿Qué es eso de la hibridación?
 
 
-Tal y como nos indica Manovich, el desarrollo y la implementación de los medios existentes en el "Medio ordenador" como definía Kay, ha servido para que esos medios no se queden como estaban y su implementación se haya limitado a una mera copia o representación de los antiguos medios, sino que dan un paso más adelante y música, vídeo, fotografía, datos, sonido, sensores, localización geográfica... se entremezclan entre sí en los medios ya existentes y en otros nuevos, dando lugar al fenómeno de la hibridación.
+Tal y como nos indica Manovich, el desarrollo y la implementación de los medios existentes en el *"Medio ordenador"* como definía Kay, ha servido para que esos medios no se queden como estaban y su implementación se haya limitado a una mera copia o representación de los antiguos medios, sino que dan un paso más adelante y música, vídeo, fotografía, datos, sonido, sensores, localización geográfica... se entremezclan entre sí en los medios ya existentes y en otros nuevos, dando lugar al fenómeno de la hibridación.
 
-Esta hibridación puede afectar o, más que afectar, reformar, para que no suene de forma que parezca algo perjudicial y malsonante, tanto a la propia representación de los datos como a la interactividad del propio medio. De esta forma, debido a la hibridación existe software que hibrida datos: mezcla localización GPS con fotografía, gráficos vectoriales con vídeo, o que hibrida la interfaz de creación de contenidos: generación de imágenes gracias texto introducido por el usuario... y  aún no conocemos futuras vueltas de tuerca que vendrán en el futuro.
+Esta hibridación puede afectar o, más que afectar, reformar, para que no suene de forma que parezca algo peyorativo, tanto a la propia representación de los datos como a la interactividad del propio medio. De esta forma, debido a la hibridación existe software que hibrida datos: mezcla localización GPS con fotografía, gráficos vectoriales con vídeo, o que hibrida la interfaz de creación de contenidos: generación de imágenes gracias texto introducido por el usuario... y  aún no conocemos futuras vueltas de tuerca que vendrán en el futuro.
 
-Y son un ejemplo de cada uno de esos tipos los que voy a a tratar en este artículo. 
+Y son un ejemplo de cada uno de esos tipos los que voy a a tratar en este artículo, tratando de analizarlos tal y como lo habría hecho Manovich en su libro "El Software toma el Mando" . Los dos ejemplos que he escogido son **Wrapped** de **Spotify** y el juego **NotPr0n**. 
 
   
 
@@ -31,6 +30,8 @@ Comenzó a difundirse el año 2016 con la denominación actual (en 2015 Spotify 
 Para cada uno de los artistas cuya música esté disponible en Spotify, la plataforma le envía en el mes de diciembre del año en curso una presentación que lo que hace es representar de una forma visualmente atractiva las escuchas que ha tenido a lo largo del año, cuál de sus canciones es la más escuchada, la más compartida en listas de reproducción, la tipología de los oyentes en cuanto a edad, país de procedencia....
 
 Estas presentaciones están hechas para ser compartidas, son una campaña de promoción que "ya viene hecha" y no supone un esfuerzo extra para el músico, y es muy sencillo compartirla con sus seguidores para crea o mantener el engaging, así como para que oyentes potenciales que no conocen o no son conscientes de la relevancia de un artista la conozcan.
+
+![Wrapped para Artistas](https://github.com/joellorente/PEC3_Manovich_Reloaded/blob/main/wrapped%20artists.jpg)
 
 ## Wrapped para fans
 
