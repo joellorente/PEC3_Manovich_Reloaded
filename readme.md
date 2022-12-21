@@ -63,4 +63,6 @@ http://www.notpron.com/
 
 ![NotPr0n nivel 1](https://github.com/joellorente/PEC3_Manovich_Reloaded/blob/main/Notpr0n%20level1.jpg)
 
+(ATENCIÓN SPOILERS) En el siguiente documento te encontrarás unas pistas bastante explícitas para los 9 primeros niveles... A partir de entonces el camino será tuyo.
+
 
