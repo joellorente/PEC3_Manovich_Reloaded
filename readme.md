@@ -7,7 +7,10 @@
 # ¿Qué es eso de la hibridación?
 
 
-Tal y como nos indica Manovich, el desarrollo y la implementación de los medios existentes en el *"metamedio ordenador"* definido por Kay y Goldberg, ha servido para que esos medios no se queden como estaban y su implementación se haya limitado a una mera copia o representación de los antiguos medios, sino que dan un paso más adelante y música, vídeo, fotografía, datos, sonido, sensores, localización geográfica... se entremezclan entre sí en los medios ya existentes y en otros nuevos, dando lugar al fenómeno de la hibridación. Atentos a la frase y al calado que ha tenido porque tiene más de cuarenta años: *Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles*.
+*Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles*
+
+
+Tal y como nos indica Manovich, el desarrollo y la implementación de los medios existentes en el *"metamedio ordenador"* definido por Kay y Goldberg, ha servido para que esos medios no se queden como estaban y su implementación se haya limitado a una mera copia o representación de los antiguos medios, sino que dan un paso más adelante y música, vídeo, fotografía, datos, sonido, sensores, localización geográfica... se entremezclan entre sí en los medios ya existentes y en otros nuevos, dando lugar al fenómeno de la hibridación. 
 
 Esta hibridación puede afectar o, más que afectar, reformar, para que no suene de forma que parezca algo peyorativo, tanto a la propia **representación de los datos** como a la **interactividad** del propio medio. De esta forma, debido a la hibridación existe software que hibrida datos: mezcla localización GPS con fotografía, gráficos vectoriales con vídeo, o que hibrida la interfaz de creación de contenidos: generación de imágenes gracias texto introducido por el usuario, mover elementos de la pantalla gracias a la toma de imágenes del propio jugador... y  aún no conocemos futuras vueltas de tuerca que vendrán en el futuro.
 
