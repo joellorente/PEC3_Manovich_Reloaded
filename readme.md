@@ -39,6 +39,7 @@ Para cada uno de los artistas cuya música esté disponible en Spotify, la plata
 Estas presentaciones están hechas para ser compartidas, son una campaña de promoción que "ya viene hecha" y no supone un esfuerzo extra para el músico, y es muy sencillo compartirla con sus seguidores para crea o mantener el engaging, así como para que oyentes potenciales que no conocen o no son conscientes de la relevancia de un artista la conozcan.
 
 ![Wrapped para Artistas](https://github.com/joellorente/PEC3_Manovich_Reloaded/blob/main/wrapped%20artists.jpg)
+
 *uno de los más relevantes artistas de hace un par de años*
 
 ## Wrapped para fans
@@ -68,8 +69,9 @@ http://www.notpron.com/
 
 ![NotPr0n nivel 1](https://github.com/joellorente/PEC3_Manovich_Reloaded/blob/main/Notpr0n%20level1.jpg)
 
-(ATENCIÓN SPOILERS) En el siguiente documento te encontrarás unas pistas bastante explícitas para los 9 primeros niveles... A partir de entonces el camino será tuyo.
-https://github.com/joellorente/PEC3_Manovich_Reloaded/blob/main/gu%C3%ADaprimeros.md
+(ATENCIÓN SPOILERS) En el siguiente documento te encontrarás unas pistas bastante explícitas para los 9 primeros niveles... 
+A partir de entonces el camino será tuyo.
+https://github.com/joellorente/PEC3_Manovich_Reloaded/blob/main/guiaprimeros.md
 
 
 # Conclusiones
