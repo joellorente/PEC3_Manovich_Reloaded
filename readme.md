@@ -1,3 +1,5 @@
+# Visionando la hibridación con las gafas de Manovich - Cultura Digital (UOC 2022/23)
+
 # Dos casos de hibridación - Spotify Wrapped / NotPr0n
 
 **Autor:** José Antonio Llorente Gallardo - Diciembre 2022 
@@ -5,16 +7,13 @@
 # ¿Qué es eso de la hibridación?
 
 
-Tal y como nos indica Manovich, el desarrollo y la implementación de los medios existentes en el *"Medio ordenador"* como definía Kay, ha servido para que esos medios no se queden como estaban y su implementación se haya limitado a una mera copia o representación de los antiguos medios, sino que dan un paso más adelante y música, vídeo, fotografía, datos, sonido, sensores, localización geográfica... se entremezclan entre sí en los medios ya existentes y en otros nuevos, dando lugar al fenómeno de la hibridación.
+Tal y como nos indica Manovich, el desarrollo y la implementación de los medios existentes en el *"metamedio ordenador"* definido por Kay y Goldberg, ha servido para que esos medios no se queden como estaban y su implementación se haya limitado a una mera copia o representación de los antiguos medios, sino que dan un paso más adelante y música, vídeo, fotografía, datos, sonido, sensores, localización geográfica... se entremezclan entre sí en los medios ya existentes y en otros nuevos, dando lugar al fenómeno de la hibridación. Atentos a la frase y al calado que ha tenido porque tiene más de cuarenta años: *Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles*.
 
-Esta hibridación puede afectar o, más que afectar, reformar, para que no suene de forma que parezca algo peyorativo, tanto a la propia representación de los datos como a la interactividad del propio medio. De esta forma, debido a la hibridación existe software que hibrida datos: mezcla localización GPS con fotografía, gráficos vectoriales con vídeo, o que hibrida la interfaz de creación de contenidos: generación de imágenes gracias texto introducido por el usuario... y  aún no conocemos futuras vueltas de tuerca que vendrán en el futuro.
+Esta hibridación puede afectar o, más que afectar, reformar, para que no suene de forma que parezca algo peyorativo, tanto a la propia **representación de los datos** como a la **interactividad** del propio medio. De esta forma, debido a la hibridación existe software que hibrida datos: mezcla localización GPS con fotografía, gráficos vectoriales con vídeo, o que hibrida la interfaz de creación de contenidos: generación de imágenes gracias texto introducido por el usuario, mover elementos de la pantalla gracias a la toma de imágenes del propio jugador... y  aún no conocemos futuras vueltas de tuerca que vendrán en el futuro.
 
-Y son un ejemplo de cada uno de esos tipos los que voy a a tratar en este artículo, tratando de analizarlos tal y como lo habría hecho Manovich en su libro "El Software toma el Mando" . Los dos ejemplos que he escogido son **Wrapped** de **Spotify** y el juego **NotPr0n**. 
+Y es un ejemplo de cada uno de esos tipos (hibridación de datos e hibridación de interacción) lo que voy a a tratar en este artículo, tratando de analizarlos tal y como lo habría hecho Manovich en su libro "El Software toma el Mando" . Los dos ejemplos que he escogido son **Wrapped** de **Spotify** y el juego **NotPr0n**. 
 
   
-
-
-
 
 # Wrapped de Spotify
 
@@ -37,6 +36,7 @@ Para cada uno de los artistas cuya música esté disponible en Spotify, la plata
 Estas presentaciones están hechas para ser compartidas, son una campaña de promoción que "ya viene hecha" y no supone un esfuerzo extra para el músico, y es muy sencillo compartirla con sus seguidores para crea o mantener el engaging, así como para que oyentes potenciales que no conocen o no son conscientes de la relevancia de un artista la conozcan.
 
 ![Wrapped para Artistas](https://github.com/joellorente/PEC3_Manovich_Reloaded/blob/main/wrapped%20artists.jpg)
+*uno de los más relevantes artistas de hace un par de años*
 
 ## Wrapped para fans
 
@@ -66,5 +66,19 @@ http://www.notpron.com/
 ![NotPr0n nivel 1](https://github.com/joellorente/PEC3_Manovich_Reloaded/blob/main/Notpr0n%20level1.jpg)
 
 (ATENCIÓN SPOILERS) En el siguiente documento te encontrarás unas pistas bastante explícitas para los 9 primeros niveles... A partir de entonces el camino será tuyo.
+https://github.com/joellorente/PEC3_Manovich_Reloaded/blob/main/gu%C3%ADaprimeros.md
+
+
+# Conclusiones
+
+En plenos años 20 del siglo XXI ya nadie habla de la moderna multimedia, omnipresente a principios de siglo y sinónimo de futuro en aquel entonces. Ahora ya estamos en el futuro y tenemos absolutamente interiorizado que todas las expresiones de conocimiento interactúan entre sí. Tomamos conciencia y asumimos como naturales y cotidianas muchas representaciones y aplicaciones que se han creado merced a la hibridación, somos usuarios cotidianos de recursos que hace muy pocos años ni existían ni, prácticamente, se soñaban, y todo es **gracias a la softwarización y a la hibridación** que vaticinaron en su día visionarios como Kay o Manovich. 
+
+Quizás para valorar convenientemente la evolución que hemos vivido en este tobogán de cambios a los que nos ha llevado el software y tener una visión más clara de hacia dónde puede ir el futuro deberíamos tomar conciencia como sociedad del **software** como entidad de peso, y de la magnitud de éste como catalizador de nuestra evolución más enorme y cercana.
+
+# Bibliografía / Webgrafía
+
+MANOVICH, L. (2013). El software toma el mando. Barcelona: Editorial UOC. 
+ADELL, F. (2014). Remediación, multimedia e hibridación de los medios. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+COLABORADORES DE WIKIPEDIA. Spotify Wrapped. Wikipedia, la enciclopedia libre [en línea] [consulta: 18 de diciembre de 2022]. Disponible en:https://es.wikipedia.org/wiki/Spotify_Wrapped
 
 
