@@ -25,6 +25,9 @@ Millones de personas comparten de forma masiva cada año su Wrapped personal, pr
 
 Comenzó a difundirse el año 2016 con la denominación actual (en 2015 Spotify ya publicó un germen de Wrapped, llamado "Year in Music"), y tiene una versión para músicos/artistas y otra para oyentes. 
 
+
+![Wrapped gif](https://github.com/joellorente/PEC3_Manovich_Reloaded/blob/main/20221221_081006.gif)
+
 ## Wrapped para músicos
 
 Para cada uno de los artistas cuya música esté disponible en Spotify, la plataforma le envía en el mes de diciembre del año en curso una presentación que lo que hace es representar de una forma visualmente atractiva las escuchas que ha tenido a lo largo del año, cuál de sus canciones es la más escuchada, la más compartida en listas de reproducción, la tipología de los oyentes en cuanto a edad, país de procedencia....
