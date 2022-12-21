@@ -81,6 +81,8 @@ En plenos años 20 del siglo XXI ya nadie habla de la moderna multimedia, omnipr
 
 Quizás para valorar convenientemente la evolución que hemos vivido en este tobogán de cambios a los que nos ha llevado el software y tener una visión más clara de hacia dónde puede ir el futuro deberíamos tomar conciencia como sociedad del **software** como entidad de peso, y de la magnitud de éste como catalizador de nuestra evolución más enorme y cercana.
 
+Suceda ésto o no (la toma de conciencia al respecto de la causalidad del software), agarrémonos a nuestro asiento y disfrutemos del camino evolutivo, porque el software ya tomó el mando y ya no hay quién lo pare.
+
 # Bibliografía / Webgrafía
 
 MANOVICH, L. (2013). El software toma el mando. Barcelona: Editorial UOC. 
