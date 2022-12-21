@@ -7,7 +7,7 @@
 # ¿Qué es eso de la hibridación?
 
 
-*Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles*
+*"Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles"*
 
 
 Tal y como nos indica Manovich, el desarrollo y la implementación de los medios existentes en el *"metamedio ordenador"* definido por Kay y Goldberg, ha servido para que esos medios no se queden como estaban y su implementación se haya limitado a una mera copia o representación de los antiguos medios, sino que dan un paso más adelante y música, vídeo, fotografía, datos, sonido, sensores, localización geográfica... se entremezclan entre sí en los medios ya existentes y en otros nuevos, dando lugar al fenómeno de la hibridación. 
@@ -69,7 +69,8 @@ http://www.notpron.com/
 
 ![NotPr0n nivel 1](https://github.com/joellorente/PEC3_Manovich_Reloaded/blob/main/Notpr0n%20level1.jpg)
 
-(ATENCIÓN SPOILERS) En el siguiente documento te encontrarás unas pistas bastante explícitas para los 9 primeros niveles... 
+**(ATENCIÓN SPOILERS)** En el siguiente documento te encontrarás unas pistas bastante explícitas para los 9 primeros niveles... 
+
 A partir de entonces el camino será tuyo.
 https://github.com/joellorente/PEC3_Manovich_Reloaded/blob/main/guiaprimeros.md
 
@@ -83,7 +84,9 @@ Quizás para valorar convenientemente la evolución que hemos vivido en este tob
 # Bibliografía / Webgrafía
 
 MANOVICH, L. (2013). El software toma el mando. Barcelona: Editorial UOC. 
+
 ADELL, F. (2014). Remediación, multimedia e hibridación de los medios. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+
 COLABORADORES DE WIKIPEDIA. Spotify Wrapped. Wikipedia, la enciclopedia libre [en línea] [consulta: 18 de diciembre de 2022]. Disponible en:https://es.wikipedia.org/wiki/Spotify_Wrapped
 
 
