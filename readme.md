@@ -40,7 +40,7 @@ Estas presentaciones están hechas para ser compartidas, son una campaña de pro
 
 ![Wrapped para Artistas](https://github.com/joellorente/PEC3_Manovich_Reloaded/blob/main/wrapped%20artists.jpg)
 
-*uno de los más relevantes artistas de hace un par de años*
+*Wrapped de Quavo: uno de los más relevantes artistas de 2018*
 
 ## Wrapped para fans
 
